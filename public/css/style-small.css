@@ -1,6 +1,6 @@
 @media only screen and (max-width: 64em) {
    .description {
-     text-align: center;
+     text-align: centre;
   }
 
   .show-for-medium-up {
@@ -8,6 +8,6 @@
   }
 
   .sign-up {
-    text-align: center;
+    text-align: centre;
   }
 }
